@@ -75,8 +75,3 @@ It happens because of one simple mistake: the server trusts the ID in the link, 
 - HackTricks – IDOR  
   https://hacktricks.wiki/en/pentesting-web/idor.html
 
-- CWE-639: Authorization Bypass Through User-Controlled Key  
-  https://cwe.mitre.org/data/definitions/639.html
-
-- MDN Web Docs – HTTP Access Control (Background)  
-  https://developer.mozilla.org/en-US/docs/Web/HTTP
